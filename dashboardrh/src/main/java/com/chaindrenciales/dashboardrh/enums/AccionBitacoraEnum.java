@@ -1,0 +1,15 @@
+package com.chaindrenciales.dashboardrh.enums;
+
+public enum AccionBitacoraEnum {
+
+    LOGIN,
+    LOGOUT,
+    CREAR_RECLUTADOR,
+    ACTUALIZAR_RECLUTADOR,
+    DESACTIVAR_USUARIO,
+    ASIGNAR_EVALUADOR,
+    ACTUALIZAR_PERFIL,
+    REACTIVAR_USUARIO,
+    CONSULTA_REPORTE,
+    REASIGNAR_CARGA_RECLUTADOR
+}
